@@ -1,3 +1,4 @@
+# React application with jsonplaceholder Api to get user data and display it in a meaningful way.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
