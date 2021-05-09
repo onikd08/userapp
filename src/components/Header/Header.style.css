@@ -1,0 +1,22 @@
+.logo {
+    width: 60px;
+}
+
+.reactLogo {
+    height: 60px;
+    vertical-align: middle;
+}
+
+.textRight {
+    text-align: right;
+  }
+
+  .container {
+    border-bottom: 1px solid #5250507e;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    max-width: 1024px;
+  }
+  

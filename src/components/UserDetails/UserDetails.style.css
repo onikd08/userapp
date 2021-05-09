@@ -1,0 +1,32 @@
+
+.card-text{
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+
+.card-container {
+    width: 25rem;
+    column-gap: 20px;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    background-color: #f2f5f4;
+    border: 2px solid rgb(128, 128, 128);
+    border-radius: 25px;
+    padding: 15px;
+    cursor: pointer;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+    margin: 1em;
+    text-decoration: none;
+
+    
+  }
+  
+ 
+
+ 

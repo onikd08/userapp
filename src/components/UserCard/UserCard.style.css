@@ -1,0 +1,36 @@
+
+.card-text{
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+
+.website {
+  text-align: center;
+  display: inline-block;
+  width: 300px;
+  margin: 0 auto;
+}
+.card-container {
+    width: 16rem;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid blue;
+    border-radius: 25px;
+    padding: 15px;
+    cursor: pointer;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+    margin: 1em;
+    
+  }
+  
+  .card-container:hover {
+    transform: scale(1.05);
+  }
+
+
+ 

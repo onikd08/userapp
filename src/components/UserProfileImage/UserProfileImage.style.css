@@ -1,0 +1,18 @@
+.profile-image{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+    background: #868a86c2;
+    font-size: 3.5rem;
+    color: rgb(247, 252, 247);
+    text-align: center;
+    line-height: 10rem;
+    margin: 1rem 0;
+    border-color: cadetblue;
+}
+.image-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
